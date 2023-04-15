@@ -2,9 +2,9 @@
 [![Linkedin Badge](https://img.shields.io/badge/-Zachary%20Karpinski-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/zacharykarpinski/)](https://linkedin.com/in/zacharykarpinski/) 
 ![Twitter Follow](https://img.shields.io/twitter/follow/zkarpinski?style=social)
 
-<div><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zKarp&layout=compact&hide=html&theme=dark" alt="zKarp" width="400" /></div>
+<div><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zkarpinski&layout=compact&hide=html&theme=dark" alt="zkarpinski" width="400" /></div>
 
-<div>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zKarp&layout=compact&show_icons=true&theme=dark" alt="zKarp"  width="400" /></div>
+<div>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zkarpinski&layout=compact&show_icons=true&theme=dark" alt="zkarpinski"  width="400" /></div>
 
 <!--
 **zKarp/zKarp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

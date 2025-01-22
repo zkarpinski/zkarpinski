@@ -1,4 +1,4 @@
-### 🌱 I’m currently learning React, Docker & Microservices
+### 🌱 I’m currently learning Langchain, an AI-powered solutions
 [![Linkedin Badge](https://img.shields.io/badge/-Zachary%20Karpinski-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/zacharykarpinski/)](https://linkedin.com/in/zacharykarpinski/) 
 ![Twitter Follow](https://img.shields.io/twitter/follow/zkarpinski?style=social)
 
